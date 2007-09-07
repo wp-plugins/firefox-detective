@@ -6,7 +6,7 @@ Plugin Name: FireFox Detective
 Version: 1.0.2-180
 Plugin URI: http://blogtalk.isgreat.org/
 Description: Adds FireFox Download Button to WordPress for IE users .
-Usage:  By choosing the options under the options menu
+Usage:  install and go
 
 Author: Trex Ramvort (modified for The XChange)
 Author URI: http://xchange.jaywebdesigns.com/xchange
@@ -19,8 +19,8 @@ if(preg_match("/firefox/i", $browser)) { echo $firefox ;
 	//Do Nothing
 } else {
 	echo
-		// Google Refferal Area
-		// IMPORTANT If you use Google Refferals change the following scripts to your prefferance
+		
+		// IMPORTANT If you use Google Referrals change the following scripts to your preferance
 		$text="
 		<div style='text-align: left'>
 
