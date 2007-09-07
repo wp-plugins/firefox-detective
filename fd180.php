@@ -20,7 +20,7 @@ if(preg_match("/firefox/i", $browser)) { echo $firefox ;
 } else {
 	echo
 		
-		// IMPORTANT If you use Google Referrals change the following scripts to your preferance
+		// IMPORTANT If you use Google Referrals change the following 
 		$text="
 		<div style='text-align: left'>
 
