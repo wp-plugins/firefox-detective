@@ -1,4 +1,4 @@
-Fox Detective Plugin for Wordpress
+Fox Detective Plugin for Wordpress 1.0.3
 
 Link: http://blogtalk.isgreat.org
 Tags: Firefox, Msie, content
@@ -11,12 +11,12 @@ Installation:
 1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
+Update: improved compliance with Wordpress 2.3
 
 
 Check out the XChange and the Wordpress plugin for this new social bookmarking article swapping site.. with images and more.
 
-http://xchange.jaywebdesigns.com/xchange
-
+http://trex.vx99.com/xchange
 
 email me at
 trex@vx99.com
